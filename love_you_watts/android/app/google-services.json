@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "176920560770",
+    "firebase_url": "https://codeada-2019.firebaseio.com",
+    "project_id": "codeada-2019",
+    "storage_bucket": "codeada-2019.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:176920560770:android:d8a3a380632d17148d209b",
+        "android_client_info": {
+          "package_name": "com.example"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "176920560770-01hok3j2b6kb1bfr08elj9v0050o4hca.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDP8s2dhBhyQLwRx78_8TL4Zzqo05bjVQM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "176920560770-01hok3j2b6kb1bfr08elj9v0050o4hca.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
